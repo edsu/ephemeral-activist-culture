@@ -8,7 +8,9 @@ In the Q&A period, someone asked the panel a question about what everyone was do
 
 In the hotel bar later I happened to talk briefly to Bergis, who impressed on me the importance of acting now. So I used a tool I had written previously to do some data collection.  I was also transitioning from working at the Library of Congress to a new job in the Maryland Institute for Technology in the Humanities at UMD, where I had the support of MITH's director, Neil Fraistat.
 
-Since you have Bergis here, who can speak to the motivations and importance of this work I'm going to spend a bit of time
+Since you have Bergis here, who can speak to the motivations and importance of
+this work. I'm going to use my panel time to talk a bit about the data
+collection and some activities at the University of Maryland since then. 
 
 ## twarc.py
 
@@ -31,16 +33,27 @@ Started in 2010. Collects Twitter data from the search API and puts it into a Go
 
 ## Gnip
 
-## number of tweets
+## Number of Tweets
 
-## graph of volume
+## Graph of Volume
 
-## data format
+## Data Format
 
-## dh incubator workshops
+## DH Incubator Workshops
 
 ## Terms of Service
 
 While our workshops were focused on empowering students and faculty to do their own data collection, they were often followed by requests from people who wanted to work directly with the Ferguson data.
 
-In order to collect  
+Twitter limits the way this data can be shared on the Internet. We've shared
+some lists of Twitter identifiers publicly at the Internet Archive. But so far
+we've only been sharing this data locally at the University of Maryland. We have
+our own dataset archive (really just bagit bags on Amazon S3) which we have made
+available to researchers on request.
+
+In some ways I think the restrictions of the Twitter API have allowed us to
+sidestep some important discussions around privacy and ethics of access to this
+data. As you may have heard, news organizations such as St Louis Public Radio
+were issued a sobpoena for access to materials related to the shooting of Mansur
+Ball-Bey. When we create collections like this is important to have answers to
+these questions ready? Heather MacNeill's work. 
