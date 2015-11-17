@@ -56,4 +56,9 @@ sidestep some important discussions around privacy and ethics of access to this
 data. As you may have heard, news organizations such as St Louis Public Radio
 were issued a sobpoena for access to materials related to the shooting of Mansur
 Ball-Bey. When we create collections like this is important to have answers to
-these questions ready? Heather MacNeill's work. 
+these questions ready? Heather MacNeil's work at University of Toronto. 
+
+Hoping to work on the coming year in what consent might look like in social
+media archives. Opt-out models,opportunities to engage with individuals in
+social media, etc. What are the models that are feasible and that work? Mention
+Baltimore if there is time (Preserving Baltimore Uprising).
